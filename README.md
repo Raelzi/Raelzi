@@ -47,14 +47,6 @@
 <img src="https://img.shields.io/badge/IA_Generativa-8B0000?style=for-the-badge&logo=openai&logoColor=white" alt="IA Generativa" />
 
 <br><br>
-
-### **Cybersegurança & Ferramentas**
-<img src="https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-</div>
-
 ---
 
 ## 📜 Certificados & Formações
