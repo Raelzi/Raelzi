@@ -76,7 +76,7 @@
         <img src="https://img.shields.io/badge/React-2B2B2B?style=flat&logo=react&logoColor=white" alt="React" />
       </td>
       <td>Lógica de programação, interatividade, layouts responsivos, componentes, gerenciamento de estado e consumo de APIs.</td>
-      <td><b>Instituto Precisa Ser</b><br><b>Vai na Web</b><br><b>Grupo L'Oréal</b></td>
+      <td><b>Kodie</b><b>Grupo L'Oréal</b></td>
     </tr>
     <tr>
       <td><b>Power Apps e Inteligência Artificial</b></td>
@@ -88,7 +88,7 @@
         <img src="https://img.shields.io/badge/IA_Generativa-2B2B2B?style=flat&logo=openai&logoColor=white" alt="IA" />
       </td>
       <td>Soluções digitais, IA Generativa, Low-Code/No-Code, automação de processos, integração com SharePoint e Power Fx.</td>
-      <td><b>Instituto Precisa Ser</b><br><b>Vai na Web</b><br><b>Grupo L'Oréal</b></td>
+      <td><b>Kodie</b><b>Grupo L'Oréal</b></td>
     </tr>
     <tr>
       <td><b>Hackathon BIT</b></td>
@@ -98,7 +98,7 @@
         <img src="https://img.shields.io/badge/Agile-2B2B2B?style=flat" alt="Agile" />
       </td>
       <td>Maratona de inovação para desenvolvimento de soluções tecnológicas em ambiente colaborativo e de aprendizado.</td>
-      <td><b>Vai na Web</b><br><b>Grupo L'Oréal</b></td>
+      <td><b>Kodie</b><br><b>Grupo L'Oréal</br></b></td>
     </tr>
   </tbody>
 </table>
